@@ -27,6 +27,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios,'8.0'
   s.source       = { :git => "https://github.com/Fmyz/FWeiXinSDK.git", :tag => "#{s.version}" }
+
   s.source_files = "FWeiXinSDK/SDKExport/*.h"
   s.public_header_files = 'FWeiXinSDK/SDKExport/WXApi.h', 'FWeiXinSDK/SDKExport/WechatAuthSDK.h'
 
