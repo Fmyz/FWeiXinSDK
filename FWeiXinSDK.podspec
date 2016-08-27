@@ -34,6 +34,8 @@
 ##git tag -a 0.0.1 -m "tag release 0.0.1"
 ##git push --tags
 
+#删除一个标签 git tag -d 0.03
+
 #第一次提交到Cocoapods官方的Specs仓库中
 #Trunk的Register
 #如果第一次使用的话那么就需要注册了,需要cocoapods 0.33版本以上才支持
