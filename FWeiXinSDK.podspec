@@ -74,7 +74,7 @@ Pod::Spec.new do |s|
         Copyright (c) 2017 Tencent. All rights reserved.
         LICENSE
 }
-  s.author       = { "Fmyz" => "https://open.weixin.qq.com" }
+  s.author       = { "Fmyz" => "https://cocoapods.org/pods/FWeiXinSDK" }
 
   s.platform     = :ios,'8.0'
   s.source       = { :git => "https://github.com/Fmyz/FWeiXinSDK.git", :tag => "#{s.version}" }
