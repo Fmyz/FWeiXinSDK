@@ -33,6 +33,7 @@
 #打上标签
 ##git tag -a 0.0.1 -m "tag release 0.0.1"
 ##git push --tags
+##git push origin 0.0.1
 
 #删除一个标签 git tag -d 0.03
 
