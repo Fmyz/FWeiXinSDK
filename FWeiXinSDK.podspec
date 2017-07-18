@@ -60,17 +60,17 @@
 
 Pod::Spec.new do |s|
   s.name         = "FWeiXinSDK"
-  s.version      = "0.0.3"
+  s.version      = "0.0.4"
 
-  s.summary      = "微信 WechatSDK 1.7.3"
+  s.summary      = "微信 WechatSDK 1.7.8"
   s.description  = <<-DESC
-       WechatSDK 1.7.3,方便自己更新
+       WechatSDK 1.7.8,方便自己更新
                    DESC
   s.homepage     = "https://open.weixin.qq.com"
   s.license      = {
     :type => 'Copyright',
     :text => <<-LICENSE
-        Copyright (c) 2016 Tencent. All rights reserved.
+        Copyright (c) 2017 Tencent. All rights reserved.
         LICENSE
 }
   s.author       = { "Fmyz" => "https://open.weixin.qq.com" }
