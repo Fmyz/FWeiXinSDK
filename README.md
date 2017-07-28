@@ -1,5 +1,7 @@
-# FShare
-微信SDK v1.7.3
+# FWeiXinSDK
+微信SDK v1.7.8
+
+pod 'FWeiXinSDK'
 
 #weixin https://open.weixin.qq.com
 #1.对传输安全的支持
